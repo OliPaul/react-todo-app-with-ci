@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test 'a'",
+    "test": "react-scripts test",
     "test:details": "react-scripts test --verbose",
     "eject": "react-scripts eject",
     "lint": "eslint src/",
